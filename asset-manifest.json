@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hub-spot-cloned-website/static/css/main.e324fe20.chunk.css",
+    "main.js": "/hub-spot-cloned-website/static/js/main.22e923b2.chunk.js",
+    "main.js.map": "/hub-spot-cloned-website/static/js/main.22e923b2.chunk.js.map",
+    "runtime-main.js": "/hub-spot-cloned-website/static/js/runtime-main.d35d6d0a.js",
+    "runtime-main.js.map": "/hub-spot-cloned-website/static/js/runtime-main.d35d6d0a.js.map",
+    "static/js/2.57b7f793.chunk.js": "/hub-spot-cloned-website/static/js/2.57b7f793.chunk.js",
+    "static/js/2.57b7f793.chunk.js.map": "/hub-spot-cloned-website/static/js/2.57b7f793.chunk.js.map",
+    "index.html": "/hub-spot-cloned-website/index.html",
+    "static/css/main.e324fe20.chunk.css.map": "/hub-spot-cloned-website/static/css/main.e324fe20.chunk.css.map",
+    "static/js/2.57b7f793.chunk.js.LICENSE.txt": "/hub-spot-cloned-website/static/js/2.57b7f793.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hub-spot-cloned-website/static/media/hero.e553b551.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d35d6d0a.js",
+    "static/js/2.57b7f793.chunk.js",
+    "static/css/main.e324fe20.chunk.css",
+    "static/js/main.22e923b2.chunk.js"
+  ]
+}
