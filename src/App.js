@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import Community from "./components/Community"
+import CrmSection from "./components/CrmSection"
+import Customers from "./components/Customers"
+import Footer from "./components/Footer"
+import Hero from "./components/Hero"
+import Navbar from "./components/Navbar"
+
+import TopNavbar from "./components/TopNavbar"
+import WideCta from "./components/WideCta"
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <TopNavbar />
+      <Navbar />
+      <Hero />
+      <CrmSection />
+      <Community />
+      <Customers />
+      <WideCta />
+      <Footer />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
