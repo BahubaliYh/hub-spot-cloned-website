@@ -165,3 +165,17 @@
 .sub-menu-bg {
   background-color: #f5f8fa;
 }
+
+@media (max-width: 767px) {
+  nav.navbar {
+    max-height: 100vh;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .large-menu {
+    min-width: 100% !important;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
